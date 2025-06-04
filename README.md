@@ -5,6 +5,8 @@ My professional portfolio as a Cloud Security Analyst.
 
 I'm a passionate Cloud Security Analyst who entered the world of cybersecurity through a scholarship from Google called "Becas Crece con Google." I completed my certification and hands-on labs directly in the Google Cloud Platform environment.
 
+- **[Explore this Portfolio's Repository on GitHub](https://guarodriguezpa.github.io/Google_Cloud_Security_Analyst/)**
+
 This portfolio highlights my practical labs, capstone project, and industry-recognized certifications.
 
 ---
