@@ -55,5 +55,5 @@ This capstone project simulates the detection and recovery process from a real-w
 
 ## 📫 Contact
 
-- [LinkedIn](https://www.linkedin.com/) *(linkedin.com/in/gustavo-rodriguez-3b075586)*
-- [Credly Profile](https://www.credly.com/users/your-user-name)
+- [LinkedIn](www.linkedin.com/in/gustavo-rodriguez-3b075586/) 
+
