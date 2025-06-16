@@ -55,5 +55,6 @@ This capstone project simulates the detection and recovery process from a real-w
 
 ## 📫 Contact
 
-- [LinkedIn
+- 
+* * **LinkedIn**: [Conéctate conmigo en LinkedIn](https://www.linkedin.com/in/gustavorodriguez-cloudsecurity/) 
 
